@@ -1,29 +1,28 @@
-# Hi 👋, I'm Gavin Knapp
-## About Me
+# 👋 Hi, I'm Gavin Knapp
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+### 🎓 **Major:** Computer Information Systems  
+### 🌐 **Focus:** Networking & Cybersecurity (Also have interests in AI)
+### 🏫 **Education:**
+- Graduated from *Elkhorn North High School*
+- Currently a student at *Wayne State College*
 
-- 📚 I’m studing to complete my Python certifications
+## 💻 Learned Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+(I am still currently learning C++)***
 
-- 👨🏻‍💻 Love programming and resolving problems
+## 📫 How To Contact Me 
+- **Gmail:** gknapp06@gmail.com
+- Will establish more contacts later
 
-- 🧠 I like to learn something new
+## 📜 About Me
+I have grown up with technology throughout my life. 
+I've always wanted to have a better understanding of how it works and 
+how I can apply digital modification or solutions to my own life.
 
-- 📫 How to reach me **dejohns2@wsc.edu**
-
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
-
-
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
-
-### Education
-
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+In the field of cybersecurity, I have observed that there are a lot of good job prospects. 
+This, combined with my inherent curiosity for digital knowledge, has made
+me committed to pursuing a degree in cybersecurity, as well as unofficially learning
+about AI, which I hope can help me in my career. 
