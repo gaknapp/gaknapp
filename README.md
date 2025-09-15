@@ -4,7 +4,7 @@
 ### 🌐 **Focus:** Networking & Cybersecurity (Also Undeclared Interests in AI)
 ### 🏫 **Education:**
 - Graduated from *Elkhorn North High School*
-- Currently attend *Wayne State College*
+- Currently, attend *Wayne State College*
 
 ## 💻 Learned Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -14,7 +14,7 @@
 (Still learning C++)
 
 ## 📫 How To Contact Me 
-- **Gmail:** gknapp06@gmail.com
-- Will establish more contacts later
+- **Personal Email:** gknapp06@gmail.com
+- Setting up more contacts soon
 
-## ℹ️ Other Infomation About Me
+## ℹ️ Other Information About Me
