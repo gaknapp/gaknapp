@@ -18,3 +18,8 @@
 - Setting up more contacts soon
 
 ## ℹ️ Other Information About Me
+I choose cybersecurity specifically because of the excellent average pay, high 
+demand, alignment with my interests in technology, and in the future, AI will 
+help cybersecurity specialists rather than outright replace them (or at least
+regarding responsible companies)
+
