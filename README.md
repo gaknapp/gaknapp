@@ -11,8 +11,6 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) 
 
-(Still learning C++)
-
 ## 📫 How To Contact Me 
 - **Personal Email:** gknapp06@gmail.com
 - Setting up more contacts soon
