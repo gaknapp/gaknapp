@@ -16,7 +16,7 @@
 (Still learning HTML and CSS)
 
 ## 📫 How To Contact Me 
-- <u>**Email:**</u>: gknapp060@outlook.com
+- <u>**Email:**</u> gknapp060@outlook.com
 
 ## ℹ️ Why I Picked Cybersecurity 
 I choose cybersecurity specifically because of the excellent average pay, high 
