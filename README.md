@@ -4,7 +4,8 @@
 ### 🛡️ **Focus:** Networking & Cybersecurity
 ### 🏫 **Education:**
 - Graduated from *Elkhorn North High School*
-- Currently, attend *Wayne State College*
+- Attended one year at *Wayne State College*
+- Currently attending *University of Nebraska at Omaha*
 
 ## 💻 Aquired Programming Languages 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
