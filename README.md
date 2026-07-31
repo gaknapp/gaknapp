@@ -21,6 +21,10 @@
 - <u>*Still in development*
 
 ## ℹ️ Why I Picked Cybersecurity 
-I chose cybersecurity because I am deeply interested in how technology works and, crucially, how it fails. Modern systems are powerful, interconnected, and constantly evolving, which means they carry hidden weaknesses. Identifying those weaknesses, understanding how they could be exploited, and designing safeguards requires analytical thinking and careful problem-solving. I'm drawn to that process. It challenges me to think critically, anticipate outcomes, and approach problems from multiple perspectives.
+I am a Cyber Defense student at the University of Nebraska at Omaha. I chose cybersecurity because I am deeply interested in how technology works and, crucially, how it fails.
 
-Beyond the technical challenge, cybersecurity carries true responsibility. Organizations and individuals depend on secure systems, and defending them against malicious actors has tangible impact. The field demands continuous learning, adaptability, and sound judgment - qualities I want to strengthen throughout my career. While it offers strong professional opportunities, what motivates me most is contributing to resilient systems people can trust.
+Modern systems are powerful, interconnected, and constantly evolving, which means they can also contain hidden weaknesses. Identifying those weaknesses, understanding how they could be exploited, and designing effective safeguards requires analytical thinking and careful problem-solving. I am drawn to that process because it challenges me to think critically, anticipate outcomes, and approach problems from multiple perspectives.
+
+Beyond the technical challenge, cybersecurity carries real responsibility. Organizations and individuals depend on secure and reliable systems, and defending them against malicious actors has a tangible impact. The field demands continuous learning, adaptability, and sound judgment—qualities I intend to strengthen throughout my career.
+
+While cybersecurity offers strong professional opportunities, what motivates me most is contributing to resilient systems people can trust.
