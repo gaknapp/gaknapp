@@ -14,8 +14,6 @@
 [![HTML](https://img.shields.io/badge/HTML-323330?style=flat&logo=html5&logoColor=E34F26)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 
-(Still learning HTML and CSS)
-
 ## 📫 How To Contact Me 
 - <u>**Email:**</u> gknapp060@outlook.com
 
