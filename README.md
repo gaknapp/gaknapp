@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gavin Knapp
 
-### 🎓 **Major:** Computer Information Systems
-### 🛡️ **Focus:** Networking & Cybersecurity
+### 🎓 **Category of Education:** Information Science and Technology 
+### 🛡️ **Focus:** Cybersecurity
 ### 🏫 **Education:**
 - Graduated from *Elkhorn North High School*
 - Attended one year at *Wayne State College*
